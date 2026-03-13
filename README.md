@@ -44,3 +44,4 @@ This local web application provides a high-quality, responsive glassmorphic UI t
 4. Click **Initiate Scrape Sequence**. The UI will display a prism loading animation while standardizing the results. The filtered spreadsheet will download automatically.
 
 5. loom video: https://www.loom.com/share/7f0ae50537024b4fad3be19c36872edf
+6. Please create and save an Apify api key in the .env file to get desired results.
