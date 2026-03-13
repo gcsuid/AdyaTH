@@ -42,3 +42,5 @@ This local web application provides a high-quality, responsive glassmorphic UI t
    http://127.0.0.1:5000
    ```
 4. Click **Initiate Scrape Sequence**. The UI will display a prism loading animation while standardizing the results. The filtered spreadsheet will download automatically.
+
+5. loom video: https://www.loom.com/share/7f0ae50537024b4fad3be19c36872edf
